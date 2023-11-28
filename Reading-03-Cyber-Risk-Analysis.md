@@ -1,6 +1,6 @@
-Reading 03
+# Reading 03
 
-GPT Additions Indicated by - 🤖:
+##### GPT Additions Indicated by - 🤖:
 
 [Reading subject](https://resources.infosecinstitute.com/certifications/cissp/security-risk-management/)
 
